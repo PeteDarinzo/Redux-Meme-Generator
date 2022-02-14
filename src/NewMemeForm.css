@@ -1,0 +1,25 @@
+.NewMemeForm {
+  background-color: gray;
+  width: 400px;
+  margin: 50px auto;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+.NewMemeForm h1 {
+  color: lightcyan;
+ }
+
+.NewMemeForm div {
+ margin: 25px;
+}
+
+.NewMemeForm label {
+  color:white;
+  font-weight: bold;
+  font-size: 1.2rem;
+  display: inline-block;
+  width: 150px;
+  text-align: right;
+  margin-right: 10px;
+}
